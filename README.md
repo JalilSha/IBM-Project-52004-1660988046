@@ -12,7 +12,9 @@ ADMIN: The main role and responsibility of the admin are to take care of the who
 USER: They can register for an account. After the login, they can create the complaint with a description of the problem they are facing. Each user will be assigned with an agent. They can view the status of their complaint.
   
   <h1>🧑🏻‍🦰 TEAM MEMBERS:</h1>
-  <ol> Pravin Kumar R
-       Murali Krishna K
-       Ponanbalagan S
-       Sankar K
+  <ol>
+  <li>SERMA THANGAM</li>
+  <li>KIRAN</li>
+  <li>MAHESHWARAN</li>
+  <li>HARI RAMA EASHWARAN</li>
+</ol>
