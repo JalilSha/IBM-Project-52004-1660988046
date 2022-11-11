@@ -4,10 +4,10 @@
 <hr>
 
 ## TEAM MEMBERS 🧑‍🤝‍🧑
-> TEAM LEAD - RAJKIRAN S S <br>
-> M1_LEAD   - KAMALESUWARAN-D <br>
-> M2_LEAD   - SRIGOVINDH <br>
-> M3_LEAD   - GURURAJAN <br>
+> TEAM LEAD - SERMA THANGAM <br>
+> M1_LEAD   - HARI RAMA EASHWARAN <br>
+> M2_LEAD   - MAHESHWARAN <br>
+> M3_LEAD   - KIRAN <br>
 
 <hr>
 
