@@ -1,5 +1,5 @@
 # IBM-Project-52004-1660988046
-
+![](https://github.com/IBM-EPBL/IBM-Project-13026-1659507202/blob/main/customer_care_registry.jpg)
 <h1>🛃CUSTOMER CARE REGISTRY :</h1>
 <h1>TECHNOLOGY : CLOUD APP DEVELOPMENT</h1>
 <h1>TEAM ID : PNT2022TMID43847</h1> 
@@ -18,7 +18,9 @@ USER: They can register for an account. After the login, they can create the com
   <li>MAHESHWARAN</li>
   <li>HARI RAMA EASHWARAN</li>
 </ol>
+
 ![](https://github.com/IBM-EPBL/IBM-Project-13026-1659507202/blob/main/customer_care_registry.jpg)
+
 # 👨🏻‍💻 SOFTWARE REQUIRED
 - PYTHON
 - FLASK
