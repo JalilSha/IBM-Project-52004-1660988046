@@ -1,7 +1,7 @@
 # IBM-Project-52004-1660988046
 
 <h1>🛃CUSTOMER CARE REGISTRY :</h1>
-<h1>TECHNOLOGY : CLOUD APP DEVELOPMENT</h1>
+<h1>TECHNOLOGY : CLOUD APP DEVELOPMENT<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f331/512.gif" alt="🌱" width="32" height="32"></h1>
 <h1>TEAM ID : PNT2022TMID43847</h1> 
 
 <h2>📒PROJECT DESCRIPTION :</h2>
