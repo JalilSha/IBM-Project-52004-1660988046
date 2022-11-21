@@ -1,8 +1,8 @@
 # IBM-Project-52004-1660988046
 
 <h1>🛃CUSTOMER CARE REGISTRY :</h1>
-<h1>TECHNOLOGY : CLOUD APP DEVELOPMENT<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f331/512.gif" alt="🌱" width="32" height="32"></h1>
-<h1>TEAM ID : PNT2022TMID43847</h1> 
+<h1><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f331/512.gif" alt="🌱" width="32" height="32">TECHNOLOGY : CLOUD APP DEVELOPMENT</h1>
+<h1> <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f31f/512.gif" alt="🌟" width="32" height="32">TEAM ID : PNT2022TMID43847</h1> 
 
 <h2>📒PROJECT DESCRIPTION :</h2>
 <h4>This Application has been developed to help the customer in processing their complaints. The customers can raise the ticket with a detailed description of the issue. An Agent will be assigned to the Customer, to solve the problem. Whenever the agent is assigned to a customer they will be notified with an email alert. Customers can view the status of the ticket till the service is provided.
