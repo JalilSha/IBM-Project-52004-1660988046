@@ -1,4 +1,4 @@
-# IBM-Project-52004-1660988046
+# PBL-NT-GP---6958-1680952991
 
 <h1>🏞️PIXEL PERFECTION </h1>
 <h1><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f331/512.gif" alt="🌱" width="32" height="32">TECHNOLOGY : CLOUD APP DEVELOPMENT</h1>
@@ -16,7 +16,6 @@ USER: They can register for an account. After the login, they can create the com
   <li>SEENI ABDUL JALIL (TEAM LEAD)</li>
   <li>JAYARAJ</li>
   <li>YUKESHVARAN</li>
-  <li>HARI RAMA EASHWARAN</li>
 </ol>
 
 ![](https://github.com/IBM-EPBL/IBM-Project-13026-1659507202/blob/main/customer_care_registry.jpg)
