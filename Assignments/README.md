@@ -4,9 +4,9 @@
 <hr>
 
 ## TEAM MEMBERS 🧑‍🤝‍🧑
-> TEAM LEAD - SERMA THANGAM <br>
-> M1_LEAD   - HARI RAMA EASHWARAN <br>
-> M2_LEAD   - MAHESHWARAN <br>
+> TEAM LEAD - SEENI ABDUL JALIL.S <br>
+> M1_LEAD   - JAYARAJ <br>
+> M2_LEAD   - YUKESHVARAN<br>
 > M3_LEAD   - KIRAN <br>
 
 <hr>
