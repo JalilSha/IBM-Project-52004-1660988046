@@ -13,7 +13,7 @@ USER: They can register for an account. After the login, they can create the com
   
   <h1>🧑🏻‍🦰 TEAM MEMBERS:</h1>
   <ol>
-  <li>SEENI ABDUL JALIL (TEAM LEAD)</li>
+  <li>SEENI ABDUL JALIL S (TEAM LEAD)</li>
   <li>JAYARAJ</li>
   <li>YUKESHVARAN</li>
 </ol>
